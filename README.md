@@ -1,7 +1,8 @@
-**A Time Series Regression Approach to Promotion Optimization 
-**
-**📌 Overview
-**
+**A Time Series Regression Approach to Promotion Optimization **
+
+
+📌 Overview
+
 This project analyzes daily revenue patterns for a UK-based online retail company using statistical regression and time-series forecasting techniques.
 The study aims to:
 
