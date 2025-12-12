@@ -1,6 +1,7 @@
-A Time Series Regression Approach to Promotion Optimization 
-📌 Overview
-
+**A Time Series Regression Approach to Promotion Optimization 
+**
+**📌 Overview
+**
 This project analyzes daily revenue patterns for a UK-based online retail company using statistical regression and time-series forecasting techniques.
 The study aims to:
 
@@ -12,7 +13,8 @@ Build a 90-day SARIMAX forecasting model with exogenous variables
 
 The analysis is built using R, leveraging GLM, SARIMAX, and standard forecasting tools.
 
-🧠 Key Insights
+**🧠 Key Insights**
+
 🔹 1. Promotion Impact
 
 Promotions increase revenue by ~105% (Gamma GLM)
